@@ -1,0 +1,5 @@
+This is a simpleminded extraction and Mavenization of the Bloom Filter code from Apache Cassandra (http://incubator.apache.org/cassandra/).
+
+It's released under the Apache 2.0 license.
+
+So far I've made no changes other than Mavenizing and un-commenting the slow-but-comprehensive tests. I don't plan to make any other changes, except to hopefully keep this fork in sync with the main Cassandra codebase.
